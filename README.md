@@ -112,24 +112,3 @@ A UML diagram is included showing:
 2. Compile the code
 3. Run the program
 4. Use the menu to interact with the system
-
----
-
-## 📁 Files Included
-
-* `main.cpp`
-* UML Diagram (PDF / Image)
-
----
-
-## 👩‍💻 Author
-
-Mirna Shawky
-
----
-
-## ⚠️ Notes
-
-This is an individual assignment. All code is written independently.
-
----
